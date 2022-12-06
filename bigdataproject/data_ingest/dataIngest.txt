@@ -1,0 +1,19 @@
+Step 1: Go to https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj
+
+Step 2: Export data as CSV, rename file to ems.csv
+
+Step 3: Run the following command on terminal: scp <pathname_of_downloaded_file> <netID>@peel.hpc.nyu.edu:/home/<netID>
+
+Step 4: Go to https://data.cityofnewyork.us/Public-Safety/Fire-Incident-Dispatch-Data/8m42-w767
+
+Step 5: Export data as CSV, rename file to fire.csv
+
+Step 6: Run the following command on terminal: scp <pathname_of_downloaded_file> <netID>@peel.hpc.nyu.edu:/home/<netID>
+
+Step 7: Make a directory for these input files: hdfs dfs -mkdir input
+
+Step 8: Put files in this directory using:
+hdfs dfs -put fire.csv input
+hdfs dfs -put ems.csv input
+
+Step 9: Well done - you're done with data ingestion! Time to move on to data profiling and cleaning!
