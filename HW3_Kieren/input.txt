@@ -1,0 +1,6 @@
+09-Dec-21,6:00PM;#Hackatopia,Tribeca Film Hackathon: Code As A New Language For Content Creators Hackathon
+28-Dec-21,7:00PM;#NYCHadoop,Hadoop-NYC Strata/Hadoop World Meetup at Google NYC
+31-Dec-21,3:00PM;#Hackatopia,Artists, Developers, engineers, don't miss this upcoming Boston hackathon
+09-Jan-22,6:00PM;#Hackatopia,Soho Film Hackathon: Code As A New Language For Content Creators Hackathon
+28-Jan-22,7:00PM;#NYCHadoop,HIVE-NYC Strata/Hadoop World Meetup at Google NYC
+31-Jan-22,3:00PM;#Hack,Designers, Developers, ENGINEERS, don't miss this upcoming Chicago hackathon
